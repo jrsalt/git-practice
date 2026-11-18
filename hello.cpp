@@ -3,7 +3,7 @@ using namespace std;
 
 // Written for the git practice assignment
 int main() {
-	cout << "Goodbye, World!" << endl;
+	cout << "Hello, World!" << endl;
 	return 0;
 }
 
