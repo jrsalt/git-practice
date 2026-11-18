@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Written for the git practice assignment
 int main() {
 	cout << "Hello, World!" << endl;
 	return 0;
