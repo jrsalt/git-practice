@@ -1,1 +1,13 @@
 Git practice notes
+
+a. git add stages the files I want to save. git commit saves those staged changes to the Git
+with a message describing what I changed.
+
+b. git restore removed my uncommitted changes and returned hello.cpp to its last committed
+version.
+
+c. hello.exe is a compiled file that Git does not need to track. It is better to ignore it
+because it can be generated again from the source code.
+
+d. git restore removes changes that have not been committed yet. git revert creates a new commit
+that undoes a previous commit without deleting the original commit from history.
